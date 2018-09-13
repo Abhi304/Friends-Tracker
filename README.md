@@ -7,7 +7,7 @@ This android is built with the help of different technologies and languages like
 
 This application is built with different activities like Registration, Sign in, Sign out, Current location tracking, Finding friend, Setting fake location, getting direction to reach friend using Google maps. Each module has its own work.
 
-Android app helps in tracking friend and helps in sharing location. This app tracks friend’s either current location or fake location depending on another person what he/she wants you to know. If friend share current location it will show current actual
+Android application helps in tracking friend and helps in sharing location. This app tracks friend’s either current location or fake location depending on another person what he/she wants you to know. If friend share current location it will show current actual
 location and if fake then shows fake location.
 
 The direction to reach friend can also be found. The current and fake location of specific user is fetched from back-end database. Back-end includes database which stores username, password, name and location of the users.
